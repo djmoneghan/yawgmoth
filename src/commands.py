@@ -54,6 +54,7 @@ obey_dict = {
         'Wedge': 'I obey... wait, are you Wedge from the mana source:tm:?',
         'Tatters': 'I won\'t obey, because people still refuse to pronounce Ghave as Gah-Vay... Sometimes Wizards is wrong. That \'H\' is there for a reason!',
         'Chemtails': 'I Obey, Chemtails, Don\'t hit me again please'
+        'Dandelion': 'No. Stop. Go away you weirdo...'
 }
 
 # ---------------------------
